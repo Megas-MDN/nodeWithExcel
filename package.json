@@ -1,0 +1,21 @@
+{
+  "name": "excelnode",
+  "version": "1.0.0",
+  "description": "Read and write Excel file in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "excel",
+    "read",
+    "write",
+    "files"
+  ],
+  "author": "megasmdn@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
